@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "96570454165",
+    "firebase_url": "https://fcmtestapp-e717d.firebaseio.com",
+    "project_id": "fcmtestapp-e717d",
+    "storage_bucket": "fcmtestapp-e717d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96570454165:android:9bf426de88dc83e7",
+        "android_client_info": {
+          "package_name": "com.jhon.sparken02.firebasepushnotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96570454165-sod5atti0757cqpg2au4su67osvlgqbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhon.sparken02.firebasepushnotificationdemo",
+            "certificate_hash": "ced5f5dd410bcbbbf7de4c7d2740f490782cf40f"
+          }
+        },
+        {
+          "client_id": "96570454165-bkjs3tibhjfutu78d27fb6og52qrgdrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxCgkOKKYf8XTeIyMUR82Xfazmliwy7Bg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96570454165-bkjs3tibhjfutu78d27fb6og52qrgdrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
